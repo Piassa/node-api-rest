@@ -1,21 +1,21 @@
-##### Trabalinho bem massa ######
+# Trabalinho bem massa
 
 :octocat: Seu primeiro refactor em node.js
 
 
-# refaça o projeto com as demais informações estabelecidas no notion
+### refaça o projeto com as demais informações estabelecidas no notion
 
-# As dependencias estão como development, caso deseje altere para production
+### As dependencias estão como development, caso deseje altere para production
 
-# Quaisquer outras ferramentas, pastas, códigos e etc. Devem ser documentadas no notion
+### Quaisquer outras ferramentas, pastas, códigos e etc. Devem ser documentadas no notion
 
-# Lembre-se 
+### Lembre-se 
 
-# Criação de branch "numero da task do jira"/"o que é"/"breve descrição da tarefa"
-# Exemplo: GGP-01/feat/created-project
+### Criação de branch "numero da task do jira"/"o que é"/"breve descrição da tarefa"
+### Exemplo: GGP-01/feat/created-project
 
-# Os commits devem seguir a mesma lógica
-# [GGP-01] Fix: Created project
+### Os commits devem seguir a mesma lógica
+### [GGP-01] Fix: Created project
 
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
