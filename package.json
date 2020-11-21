@@ -1,0 +1,26 @@
+{
+  "name": "with-docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "nodemon main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Piassa/node-api-rest.git"
+  },
+  "author": "gabriel piassa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Piassa/node-api-rest/issues"
+  },
+  "homepage": "https://github.com/Piassa/node-api-rest#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.15",
+    "nodemon": "^2.0.6",
+    "require-dir": "^1.2.0",
+    "typescript": "^4.1.2"
+  }
+}
